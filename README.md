@@ -19,3 +19,5 @@
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufshaikh719&count_private=true&show_icons=true&theme=gotham)
+
+![Snake animation](https://github.com/yusufshaikh719/yusufshaikh719/blob/output/github-contribution-grid-snake.svg)
