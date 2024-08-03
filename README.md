@@ -16,6 +16,9 @@
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="22" height="22" alt="C++"/>
   <img src="https://cdn-icons-png.flaticon.com/128/9423/9423141.png" width="22" height="22" alt="Quantum Computing"/>
   <img src="https://cdn-icons-png.flaticon.com/128/10826/10826338.png" width="22" height="22" alt="React Native"/>
+  <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="22" height="22" alt="PyTorch"/>
+  <img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" width="22" height="22" alt="Tensorflow"/>
+  
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufshaikh719&count_private=true&show_icons=true&theme=gotham)
