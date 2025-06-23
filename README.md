@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World!</h1>
 <h3 align="center">I'm Yusuf</h3>
 
-<p>I love everything about robotics, especially working on autonomous functions.</p>
+<a href="https://yusufstudio.tech/">yusufstudio.tech</a>
 
 <h2>Tools</h2>
 <p align="left">
