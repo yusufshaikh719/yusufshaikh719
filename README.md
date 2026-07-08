@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://yusufstudio.tech/"><b>yusufstudio.tech</b></a> • 
+  <a href="https://yusufs.studio/"><b>yusufs.studio</b></a> • 
   <a href="mailto:yusuf.shaikh0719@gmail.com"><b>Email Me</b></a>
 </p>
 
